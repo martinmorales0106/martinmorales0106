@@ -1,50 +1,12 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+Bienvenidos a mi GitHub
+Hola, Soy Martin Jose Morales Jimenez, tengo 36 años, soy de Colombia, soy Full Stack Web Developer, Magister en Estadistica aplicada y Licenciado en Matematicas. Disfruto de los desafíos pues todos presentan varias forma creativa de resolverse, mi afinidad por plasmar ideas en realidad hacen que tenga una gran pasión por el Front-end y backend
 
-# Folder config file
-Desktop.ini
+Tecnologías utilizadas
+My Skills
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+Contacto
+¡Me encantaría conectarme contigo! Puedes encontrarme en:
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
-
-.idea
-/.vs
+LinkedIn 🌐
+Email 📧
+¡Gracias por visitar mi GitHub! 👋
