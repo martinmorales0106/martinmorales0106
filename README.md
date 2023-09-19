@@ -5,7 +5,7 @@ Hola, Soy Martin Jose Morales Jimenez, tengo 36 años, soy de Colombia, soy Full
 
 ## Tecnologías utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,nodejs,express,sequelize,postgres,bootstraps )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,nodejs,express,sequelize,postgres,bootstrap,typescript,python,prisma,mongodb,next)](https://skillicons.dev)
 
 
 ## Contacto
