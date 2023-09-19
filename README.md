@@ -1,6 +1,8 @@
 # Bienvenidos a mi GitHub
 
-Hola, Soy Martin Jose Morales Jimenez, tengo 36 años, soy de Colombia, soy Full Stack Web Developer, Magister en Estadistica aplicada y Licenciado en Matematicas. Disfruto de los desafíos pues todos presentan varias forma creativa de resolverse, mi afinidad por plasmar ideas en realidad hacen que tenga una gran pasión por el Front-end y backend
+¡Hola! Soy Martin Jose Morales Jimenez, originario de Colombia y con 36 años de edad. Me considero un apasionado Full Stack Web Developer con un trasfondo académico sólido: soy Magister en Estadística Aplicada y Licenciado en Matemáticas.
+
+Mi viaje en el mundo del desarrollo web se caracteriza por mi aprecio por los desafíos que cada proyecto presenta. Cada uno de ellos me brinda la oportunidad de emplear soluciones creativas para convertir ideas en realidad. Mi pasión abarca tanto el Front-end como el Backend, lo que me permite abordar proyectos de manera integral y ofrecer experiencias excepcionales a los usuarios.
 
 
 ## Tecnologías utilizadas
