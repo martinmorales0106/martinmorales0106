@@ -16,7 +16,6 @@ Mi viaje en el mundo del desarrollo web se caracteriza por mi aprecio por los de
 
 - [LinkedIn](https://www.linkedin.com/in/martin-jose-morales-jimenez-279748219/) 🌐
 - [Email](mailto:marmorji0106@gmail.com) 📧
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
 
 ¡Gracias por visitar mi GitHub! 👋
